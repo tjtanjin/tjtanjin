@@ -9,7 +9,7 @@
 
 - 📄 Find out more about me [here](https://tjtanjin.com)
 
-- 💬 Connect with me on [linkedin](https://linkedin.com/cjtanjin)
+- 💬 Connect with me on [linkedin](https://www.linkedin.com/in/cjtanjin/)
 
 
 <h3 align="left">Languages and Tools:</h3>
