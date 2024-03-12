@@ -1,13 +1,13 @@
 <h1 align="center">Hi! 👋 I'm Tan Jin 😊</h1>
 <h3 align="center">Fullstack Developer</h3>
 
-- 🔭 I’m currently working on [SurvivalTop](https://github.com/TavernCraft-Devs/SurvivalTop)
+- 🔭 I’m currently working on [React ChatBotify](https://github.com/tjtanjin/react-chatbotify)
 
 - 👯 I’m looking to collaborate on [Simple Media Converter](https://github.com/tjtanjin/simple-media-converter)
 
-- 📝 All of my guides are available [here](https://gist.github.com/tjtanjin)
+- 📝 I publish articles [here](https://tjtanjin.medium.com) and [here](https://dev.to/tjtanjin)
 
-- 📄 Find out more about me [here](https://tjtanjin.com)
+- 📄 Find out more [about me](https://tjtanjin.com)
 
 - 💬 Connect with me on [linkedin](https://www.linkedin.com/in/cjtanjin/)
 
